@@ -30,3 +30,18 @@ iframe {
   border: double #e6e6e9 10px;
   padding: 30px;
 }
+
+.container{
+  width: 30%;
+  Height: 20%;
+  padding: 2px;
+}
+
+table, th, tr, td {
+border: solid black 2px;
+}
+
+td:hover {
+  color: white;
+  font-size: 20;
+}
